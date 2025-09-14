@@ -45,9 +45,9 @@ I'm a **Full-stack Software Engineer** with 6+ years of experience building high
 ---
 
 ## 📊 GitHub Stats
-![Hidayath's GitHub stats](https://github-readme-stats.vercel.app/api?username=hidayathbr&show_icons=true&theme=radical)
+![Hidayath's GitHub stats](https://github-readme-stats.vercel.app/api?username=hidior&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hidayathbr&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hidiorr&layout=compact&theme=radical)
 
 ---
 
